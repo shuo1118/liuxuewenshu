@@ -2,11 +2,15 @@
 
 ## 1. 访问网申页面
 打开CityU主页：https://www.cityu.edu.hk/zh-cn ，如下：
-![figure1](../CityU/fig/figure1.png)
+
+![](../CityU/fig/figure1.png)
+
 1. 右上角选择**简体中文**，
 2. 选择**入读城大**，
 3. 选择**修课式研究生**，进入新的页面，如下
-![figure2](../CityU/fig/figure2.png)
+
+![](../CityU/fig/figure2.png)
+
 1. 右上角选择**简体中文**，
 2. 选择**修课式硕士课程**，
 3. 选择**立即申请**，下划页面阅读申请注意事项，阅读完后点击**APPLY NOW**，我们将抵达网申页面。
