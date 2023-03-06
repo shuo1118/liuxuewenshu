@@ -1,6 +1,6 @@
 # CityU网申流程
 
-## 1. 访问网申页面
+## 访问网申页面
 打开CityU主页：https://www.cityu.edu.hk/zh-cn ，如下：
 
 ![](../CityU/fig/figure1.png)
@@ -15,7 +15,16 @@
 2. 选择**修课式硕士课程**，
 3. 选择**立即申请**，下划页面阅读申请注意事项，阅读完后点击**APPLY NOW**，我们将抵达网申页面。
 
-## 2. 注册账户
+## 注册账户
+首先，点击**Create New Account**按钮，创建新的账户：
+
+![](../CityU/fig/figure3.png)
+
+然后，填写如下信息：
+
+![](../CityU/fig/figure4.png)
+
+
 
 ## 3. 创建新的申请
 
