@@ -42,7 +42,7 @@
 
 ![](../CityU/fig/figure8.png)
 
-点击**Checklist**，滑动至页面底部。提供了一份总的检查清单，用于缴费前的快速检查。
+点击**Checklist**，滑动至页面底部。提供了一份总的检查清单，用于缴费前的快速检查。我们选择**Finish Later**，等到内容提交完毕再来**Pay ＆ Submit**。
 
 ![](../CityU/fig/figure9.png)
 
