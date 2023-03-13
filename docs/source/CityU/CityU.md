@@ -38,6 +38,14 @@
 
 ![](../CityU/fig/figure7.png)
 
+进入新的页面，如下
+
+![](../CityU/fig/figure8.png)
+
+点击**Checklist**，滑动至页面底部。提供了一份总的检查清单，用于缴费前的快速检查。
+
+![](../CityU/fig/figure9.png)
+
 ## 填写个人信息
 
 ## 填写考试成绩 DSE/GRE/语言
