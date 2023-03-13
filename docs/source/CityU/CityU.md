@@ -5,15 +5,13 @@
 
 ![](../CityU/fig/figure1.png)
 
-1. 右上角选择**简体中文**，
-2. 选择**入读城大**，
-3. 选择**修课式研究生**，进入新的页面，如下
+1. 选择**Admissions**，
+2. 选择**Taught Postgraduate**，进入新的页面，如下
 
 ![](../CityU/fig/figure2.png)
 
-1. 右上角选择**简体中文**，
-2. 选择**修课式硕士课程**，
-3. 选择**立即申请**，下划页面阅读申请注意事项，阅读完后点击**APPLY NOW**，我们将抵达网申页面。
+1. 选择**Taught Postgraduate Programmes**，
+2. 选择**Apply Now**，下划页面阅读申请注意事项，阅读完后点击**APPLY NOW**，我们将抵达网申页面。
 
 ## 注册账户
 首先，点击**Create New Account**按钮，创建新的账户：
