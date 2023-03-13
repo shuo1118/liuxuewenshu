@@ -48,9 +48,18 @@
 
 ## 填写个人信息
 
-## 填写考试成绩 DSE/GRE/语言
+## 填写考试成绩（语言）
+
+点击**Public Examinations**，对于大陆学生，只需要填写**Other Tests (e.g. CET / IELTS / TOEFL / GMAT)**
+
+![](../CityU/fig/figure11.png)
+
 
 ## 填写教育经历
+
+填写已获得的最高学历
+
+![](../CityU/fig/figure12.png)
 
 ## 填写获奖荣誉
 
