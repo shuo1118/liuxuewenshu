@@ -63,10 +63,38 @@
 
 ## 填写获奖荣誉
 
+![](../CityU/fig/figure13-0.png)
+
+![](../CityU/fig/figure13.png)
+
+
 ## 填写工作经历
+
+![](../CityU/fig/figure14.png)
+
+![](../CityU/fig/figure15.png)
 
 ## 填写其他信息
 
+![](../CityU/fig/figure16.png)
+
 ## 上传证明文件
 
+![](../CityU/fig/figure17.png)
+
 ## 填写个人陈述
+
+![](../CityU/fig/figure18.png)
+
+## 填写补充表格
+
+![](../CityU/fig/figure19.png)
+
+![](../CityU/fig/figure20.png)
+
+![](../CityU/fig/figure20-1.png)
+
+## 填写非本地申请人补充信息
+
+![](../CityU/fig/figure21.png)
+![](../CityU/fig/figure21.png)
