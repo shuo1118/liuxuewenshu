@@ -48,6 +48,7 @@
 
 ## 填写个人信息
 
+
 ## 填写考试成绩（语言）
 
 点击**Public Examinations**，对于大陆学生，只需要填写**Other Tests (e.g. CET / IELTS / TOEFL / GMAT)**
@@ -63,23 +64,29 @@
 
 ## 填写资格证书
 
-如果没有资格证书，点击**Next Section**。
+如果没有资格证书，点击**Next Section**
+
 ![](../CityU/fig/figure13-0.png)
 
 如果有资格证书，就点击**Add Record**
+
 ![](../CityU/fig/figure13.png)
 
 
 ## 填写工作经历
 
-应届生不用填，点击**Next Section**。
+应届生不用填，点击**Next Section**
+
 ![](../CityU/fig/figure14.png)
 
 如果有工作经历，就点击**Add Record**
+
 ![](../CityU/fig/figure15.png)
 
 ## 填写其他信息
-其他信息主要了解你的社交账号，信息了解渠道，是否参加过类似项目。
+
+其他信息主要了解你的社交账号，信息了解渠道，是否参加过类似项目
+
 ![](../CityU/fig/figure16.png)
 
 ## 上传证明文件
@@ -93,6 +100,7 @@
 ## 填写补充表格
 
 选择专业分流和调剂
+
 ![](../CityU/fig/figure19.png)
 
 填写工作经历
